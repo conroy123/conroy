@@ -1,0 +1,63 @@
+[
+	{
+		"product_image":"images/charone.jpg",
+		"product_name":"great expectations",
+		"product_id":"71",
+		"published":"1603"
+	},
+	{
+		"product_image":"images/chartwo.jpg",
+		"product_name":"david copperfield",
+		"product_id":"12",
+		"default_qty":"1"
+	},
+	{
+		"product_image":"images/charthree.jpg",
+		"product_name":"Oliver twist",
+		"product_id":"254",
+		"default_qty":"1"
+	},
+	{
+		"product_image":"images/charfour.jpg",
+		"product_name":"a Christmas carol",
+		"product_id":"13",
+		"default_qty":"1"
+	},
+	{
+		"product_image":"images/charfive.jpg",
+		"product_name":"bleak house",
+		"product_id":"14",
+		"default_qty":"1"
+	},
+	{
+		"product_image":"images/charsix.jpg",
+		"product_name":"the pick wick paper",
+		"product_id":"19",
+		"default_qty":"1"
+	},
+	{
+		"product_image":"images/charseven.jpg",
+		"product_name":"our mutual friend",
+		"product_id":"16",
+		"default_qty":"1"
+	},
+	{
+		"product_image":"images/chareight.jpg",
+		"product_name":"little dorrit",
+		"product_id":"18",
+		"default_qty":"1"
+	},
+	{
+		"product_image":"images/charnine.jpg",
+		"product_name":"hard times ",
+		"product_id":"18",
+		"default_qty":"1"
+	},
+	{
+		"product_image":"images/charten.jpg",
+		"product_name":"domb and son",
+		"product_id":"19",
+		"default_qty":"1"
+	}
+	
+] 
