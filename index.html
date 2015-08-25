@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+
+        <title>Famous Books</title>
+
+        <meta charset="utf-8" />
+		<!--access to external style sheet-->
+        <link rel="stylesheet" href="css/style.css" media="screen" type="text/css" />
+
+        <script type="text/javascript" src="js/jquery_V_2_0_3.min.js"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+        <script type="text/javascript" src="js/bookshop.js"></script>
+		<script type="text/javascript" src="js/serch.js"></script>
+			<script src="js/search.js"></script>
+		
+    </head>
+
+    <body>
+	
+        <div id="site">
+
+            <header id="masthead">	
+			
+            </header>
+			<div id="content">			
+<form action=""> 
+<!--create a place holder to allow users to search-->
+<input type="placeholder" id="txt1" onkeyup="showHint(this.value)"style="float:right;">	
+</form>
+<p id="p">Suggestions:&nbsp <span id="txtHint"></span></p> 
+                
+				<div>				
+                    <ul id="nav" data-role="listview">
+		 				<!--unordered list which is manumitted by data.js in the js folder -->	
+                        <li><a id="hastag"href="#home">Top Ten books</a></li>
+                        <li><a id="shake"href="#William_Shakespare" >William_Shakespare</a></li>
+                        <li><a id="hemin"href="#Ernest_Hemingway" >Ernest_Hemingway</a></li>
+						<li><a id="charl"href="#Charles_Dickens" >Charles_Dickens</a></li>
+												
+                    </ul>
+                </div>
+                <div id="products">
+
+                    <ul>
+	
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+
+        <footer id="site-info">
+        </footer>
+
+    </body>
+</html>	
